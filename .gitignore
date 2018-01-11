@@ -1,0 +1,9 @@
+.vs/*
+ipch/*
+Debug/*
+x64/*
+*.VC.*
+calcTransform/video/*
+calcTransform/x64/*
+calcTransform/Debug/*
+calcTransform/*.vcxproj*
